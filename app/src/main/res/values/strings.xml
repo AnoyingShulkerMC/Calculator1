@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name="spinner_methods">
+        <item>divided by</item>
+        <item>times</item>
+        <item>plus</item>
+        <item>minus</item>
+    </string-array>
+    <string name="button_press">Calculate</string>
+    <string name="button_password_press">Authenticate</string>
+</resources>
